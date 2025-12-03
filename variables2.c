@@ -1,4 +1,4 @@
-git#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 //even - 1 
 //odd - 0 
