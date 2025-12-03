@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-<<<<<<< Updated upstream
-    
-=======
+
     int a,b;
     a=29;
     b=34;
@@ -15,6 +13,5 @@ int main() {
     scanf("%d",&b);
     a+=b;
     printf("%d",a);
->>>>>>> Stashed changes
     return 0;
 }
